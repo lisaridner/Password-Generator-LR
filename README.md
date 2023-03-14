@@ -3,6 +3,9 @@ I created a password generator that lets the user choose a password that has a m
 
 *I worked with a study group on this project*
 
+<img width="746" alt="Screenshot 2023-03-14 181327" src="https://user-images.githubusercontent.com/125208782/225166576-a2049140-d5f9-4a73-b6a4-623bfa99dac9.png">
+
+
 
 
 
